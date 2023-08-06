@@ -1,0 +1,11 @@
+{
+    "name": "discord-bot-suggestion",
+    "version": "1.0.0",
+    "description": "Discord Suggestions Bot",
+    "main": "index.js",
+    "author": "Wick",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^12.5.3"
+    }
+}
