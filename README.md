@@ -1,2 +1,3 @@
-# Suggestion_Discord_Bot
-Simple suggestion discord bot with auto line
+Bot By 约 - Wick | Website : https://wickdev.xyz/
+
+#Suggestion discord bot with auto line
